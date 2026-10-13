@@ -1,0 +1,473 @@
+- title: 'Retroelements-driven regulatory evolution of human genes and molecular processes: analysis of genome binding profiles of transcription factors and histone modifications'
+  authors:
+  - D. Nikitin
+  journal: Zenodo (thesis manuscript)
+  year: 2026
+  doi: 10.5281/zenodo.19052415
+  url: https://doi.org/10.5281/zenodo.19052415
+  type: dissertation-thesis
+  preprint: false
+  sole_author: true
+  group: Single-author work
+- title: Telomere-to-telomere co-mapping of transposable elements and human genes identifies a cluster of young L1 elements in the interferon-alpha domain with potential evolutionary arms-race
+  authors:
+  - D. Nikitin
+  journal: 'G3: Genes, Genomes, Genetics'
+  year: 2026
+  doi: 10.1093/g3journal/jkag250
+  url: https://doi.org/10.1093/g3journal/jkag250
+  type: journal-article
+  preprint: false
+  sole_author: true
+  group: Single-author work
+- title: Transposable element-host genome evolutionary arms race revealed by multi-modal epigenomic profiling in a telomere-to-telomere human genome reference
+  authors:
+  - D. M. Nikitin
+  journal: Royal Society Open Science
+  year: 2026
+  doi: 10.1098/rsos.260639
+  url: https://doi.org/10.1098/rsos.260639
+  type: journal-article
+  preprint: false
+  sole_author: true
+  group: Single-author work
+- title: Joint analysis of human retroelements-linked histone modification profiles reveals quickly evolving molecular processes connected with cancer
+  authors:
+  - D. Nikitin
+  journal: bioRxiv
+  year: 2025
+  doi: 10.1101/2025.09.24.677146
+  url: https://doi.org/10.1101/2025.09.24.677146
+  type: preprint
+  preprint: true
+  sole_author: true
+  group: Single-author work
+- title: Benchmarking of bulk transcriptomic harmonization tools in a multi-platform B-cell lymphoma cohort identifies feature-specific quantile normalization and surrogate variable analysis as top-performing methods
+  authors:
+  - D. Nikitin
+  - N. Borisov
+  - M. Savchenko
+  - A. Bobe
+  - M. Meerson
+  - A. Nesmelov
+  - N. Harutyunyan
+  - S. Paponova
+  - A. Kravets
+  - A. Zaitsev
+  - A. Bagaev
+  - A. Arakelyan
+  journal: bioRxiv
+  year: 2026
+  doi: 10.64898/2026.09.15.751825
+  url: https://doi.org/10.64898/2026.09.15.751825
+  type: preprint
+  preprint: true
+  sole_author: false
+  group: Preprints
+- title: H3K4me3, H3K9ac, H3K27ac, H3K27me3 and H3K9me3 Histone Tags Suggest Distinct Regulatory Evolution of Open and Condensed Chromatin Landmarks
+  authors:
+  - A. A. Igolkina
+  - A. Zinkevich
+  - K. O. Karandasheva
+  - A. A. Popov
+  - M. V. Selifanova
+  - D. Nikolaeva
+  - V. Tkachev
+  - D. Penzar
+  - D. M. Nikitin
+  - A. Buzdin
+  journal: Cells
+  year: 2019
+  doi: 10.3390/cells8091034
+  url: https://doi.org/10.3390/cells8091034
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Transposable elements and regulatory evolution, 2018–2019
+- title: RetroSpect, a New Method of Measuring Gene Regulatory Evolution Rates Using Co-mapping of Genomic Functional Features with Transposable Elements
+  authors:
+  - D. Nikitin
+  - M. Sorokin
+  - V. Tkachev
+  - A. Garazha
+  - A. Markov
+  - A. Buzdin
+  journal: Evolution, Origin of Life, Concepts and Methods
+  year: 2019
+  doi: 10.1007/978-3-030-30363-1_5
+  url: https://doi.org/10.1007/978-3-030-30363-1_5
+  type: book-chapter
+  preprint: false
+  sole_author: false
+  group: Transposable elements and regulatory evolution, 2018–2019
+- title: Retroelement-Linked H3K4me1 Histone Tags Uncover Regulatory Evolution Trends of Gene Enhancers and Feature Quickly Evolving Molecular Processes in Human Physiology
+  authors:
+  - D. Nikitin
+  - N. Kolosov
+  - A. Murzina
+  - K. Pats
+  - A. Zamyatin
+  - V. Tkachev
+  - M. Sorokin
+  - P. Kopylov
+  - A. Buzdin
+  journal: Cells
+  year: 2019
+  doi: 10.3390/cells8101219
+  url: https://doi.org/10.3390/cells8101219
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Transposable elements and regulatory evolution, 2018–2019
+- title: Retroelement—Linked Transcription Factor Binding Patterns Point to Quickly Developing Molecular Pathways in Human Evolution
+  authors:
+  - D. Nikitin
+  - A. Garazha
+  - M. Sorokin
+  - D. Penzar
+  - V. Tkachev
+  - A. Markov
+  - N. Gaifullin
+  - P. Borger
+  - A. Poltorak
+  - A. Buzdin
+  journal: Cells
+  year: 2019
+  doi: 10.3390/cells8020130
+  url: https://doi.org/10.3390/cells8020130
+  type: journal-article
+  preprint: false
+  sole_author: false
+  note: 'Correction published: doi:10.3390/cells8080832'
+  group: Transposable elements and regulatory evolution, 2018–2019
+- title: Profiling of Human Molecular Pathways Affected by Retrotransposons at the Level of Regulation by Transcription Factor Proteins
+  authors:
+  - D. Nikitin
+  - D. Penzar
+  - A. Garazha
+  - M. Sorokin
+  - V. Tkachev
+  - N. Borisov
+  - A. Poltorak
+  - V. Prassolov
+  - A. A. Buzdin
+  journal: Frontiers in Immunology
+  year: 2018
+  doi: 10.3389/fimmu.2018.00030
+  url: https://doi.org/10.3389/fimmu.2018.00030
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Transposable elements and regulatory evolution, 2018–2019
+- title: A patient-derived T cell lymphoma biorepository uncovers pathogenetic mechanisms and host-related therapeutic vulnerabilities
+  authors:
+  - D. Fiore
+  - L. V. Cappelli
+  - Z. Liu
+  - N. Kotlov
+  - M. Sorokina
+  - J. Phillip
+  - P. Zumbo
+  - L. Yoffe
+  - P. Ghione
+  - A. Wang
+  - X. Han
+  - A. Taylor
+  - W. Chiu
+  - V. Fragliasso
+  - F. Tabbo
+  - N. Zamponi
+  - N. Di Siervi
+  - C. Kayembe
+  - G. Medico
+  - R. P. Patel
+  - M. Gaudiano
+  - R. Machiorlatti
+  - G. Astone
+  - M. T. Cacciapuoti
+  - G. Zanetti
+  - P. P. Nanaware
+  - C. Pignataro
+  - R. A. Eric
+  - S. Patel
+  - F. Zammarchi
+  - C. Zanettini
+  - L. Queiroz
+  - A. Nikitina
+  - O. Kudryashova
+  - A. Karelin
+  - D. Nikitin
+  - D. Tychinin
+  - E. Postovalova
+  - A. Bagaev
+  - V. Svekolkin
+  - E. Belova
+  - K. Tikhonova
+  - S. Degryse
+  - C. Xu
+  - D. Novero
+  - M. Ponzoni
+  - E. Tiacci
+  - B. Falini
+  - J. Song
+  - I. Khodos
+  - E. de Stanchina
+  - G. Macari
+  - L. Cafforio
+  - S. Gardini
+  - R. Piva
+  - E. Medico
+  - S. Y. Ng
+  - A. Moskowitz
+  - Z. Epstein
+  - A. Intlekofer
+  - A. Dogan
+  - W. C. Chan
+  - P. Martin
+  - J. Ruan
+  - F. Bertoni
+  - R. Foà
+  - J. D. Brody
+  - D. M. Weinstock
+  - J. Osan
+  - L. Santambrogio
+  - O. Elemento
+  - D. Betel
+  - W. Tam
+  - M. Ruella
+  - L. Cerchietti
+  - R. Rabadan
+  - S. Horwitz
+  - G. Inghirami
+  journal: Cell Reports Medicine
+  year: 2025
+  doi: 10.1016/j.xcrm.2025.102029
+  url: https://doi.org/10.1016/j.xcrm.2025.102029
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Cancer genomics and transcriptomic biomarkers
+- title: Gene Expression-Based Signature Can Predict Sorafenib Response in Kidney Cancer
+  authors:
+  - A. Gudkov
+  - V. Shirokorad
+  - K. Kashintsev
+  - D. Sokov
+  - D. Nikitin
+  - A. Anisenko
+  - N. Borisov
+  - M. Sekacheva
+  - N. Gaifullin
+  - A. Garazha
+  - M. Suntsova
+  - E. Koroleva
+  - A. Buzdin
+  - M. Sorokin
+  journal: Frontiers in Molecular Biosciences
+  year: 2022
+  doi: 10.3389/fmolb.2022.753318
+  url: https://doi.org/10.3389/fmolb.2022.753318
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Cancer genomics and transcriptomic biomarkers
+- title: Personalized targeted therapy prescription in colorectal cancer using algorithmic analysis of RNA sequencing data
+  authors:
+  - M. Sorokin
+  - M. Zolotovskaia
+  - D. Nikitin
+  - M. Suntsova
+  - E. Poddubskaya
+  - A. Glusker
+  - A. Garazha
+  - A. Moisseev
+  - X. Li
+  - M. Sekacheva
+  - D. Naskhletashvili
+  - A. Seryakov
+  - Y. Wang
+  - A. Buzdin
+  journal: BMC Cancer
+  year: 2022
+  doi: 10.1186/s12885-022-10177-3
+  url: https://doi.org/10.1186/s12885-022-10177-3
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Cancer genomics and transcriptomic biomarkers
+- title: DNA repair pathway activation features in follicular and papillary thyroid tumors, interrogated using 95 experimental RNA sequencing profiles
+  authors:
+  - U. Vladimirova
+  - P. Rumiantsev
+  - M. Zolotovskaia
+  - E. Albert
+  - A. Abrosimov
+  - K. Slashchuk
+  - P. Nikiforovich
+  - O. Chukhacheva
+  - N. Gaifullin
+  - M. Suntsova
+  - G. Zakharova
+  - A. Glusker
+  - D. Nikitin
+  - A. Garazha
+  - X. Li
+  - D. Kamashev
+  - A. Drobyshev
+  - I. Kochergina-Nikitskaya
+  - M. Sorokin
+  - A. Buzdin
+  journal: Heliyon
+  year: 2021
+  doi: 10.1016/j.heliyon.2021.e06408
+  url: https://doi.org/10.1016/j.heliyon.2021.e06408
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Cancer genomics and transcriptomic biomarkers
+- title: Experimental and Meta-Analytic Validation of RNA Sequencing Signatures for Predicting Status of Microsatellite Instability
+  authors:
+  - M. Sorokin
+  - E. Rabushko
+  - V. Efimov
+  - E. Poddubskaya
+  - M. Sekacheva
+  - A. Simonov
+  - D. Nikitin
+  - A. Drobyshev
+  - M. Suntsova
+  - A. Buzdin
+  journal: Frontiers in Molecular Biosciences
+  year: 2021
+  doi: 10.3389/fmolb.2021.737821
+  url: https://doi.org/10.3389/fmolb.2021.737821
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Cancer genomics and transcriptomic biomarkers
+- title: Gene Expression Signature of Endometrial Samples from Women with and without Endometriosis
+  authors:
+  - L. Adamyan
+  - Y. Aznaurova
+  - A. Stepanian
+  - D. Nikitin
+  - A. Garazha
+  - M. Suntsova
+  - M. Sorokin
+  - A. Buzdin
+  journal: Journal of Minimally Invasive Gynecology
+  year: 2021
+  doi: 10.1016/j.jmig.2021.03.011
+  url: https://doi.org/10.1016/j.jmig.2021.03.011
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Cancer genomics and transcriptomic biomarkers
+- title: Analysis of miR-9-5p, miR-124-3p, miR-21-5p, miR-138-5p, and miR-1-3p in Glioblastoma Cell Lines and Extracellular Vesicles
+  authors:
+  - A. Zottel
+  - N. Šamec
+  - A. Kump
+  - L. R. Raspor Dall’Olio
+  - P. Pužar Dominkuš
+  - R. Romih
+  - S. Hudoklin
+  - J. Mlakar
+  - D. Nikitin
+  - M. Sorokin
+  - A. Buzdin
+  - I. Jovčevska
+  - R. Komel
+  journal: International Journal of Molecular Sciences
+  year: 2020
+  doi: 10.3390/ijms21228491
+  url: https://doi.org/10.3390/ijms21228491
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Cancer genomics and transcriptomic biomarkers
+- title: RNA Sequencing-Based Identification of Ganglioside GD2-Positive Cancer Phenotype
+  authors:
+  - M. Sorokin
+  - I. Kholodenko
+  - D. Kalinovsky
+  - T. Shamanskaya
+  - I. Doronin
+  - D. Konovalov
+  - A. Mironov
+  - D. Kuzmin
+  - D. Nikitin
+  - S. Deyev
+  - A. Buzdin
+  - R. Kholodenko
+  journal: Biomedicines
+  year: 2020
+  doi: 10.3390/biomedicines8060142
+  url: https://doi.org/10.3390/biomedicines8060142
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Cancer genomics and transcriptomic biomarkers
+- title: High FREM2 Gene and Protein Expression Are Associated with Favorable Prognosis of IDH-WT Glioblastomas
+  authors:
+  - I. Jovčevska
+  - A. Zottel
+  - N. Šamec
+  - J. Mlakar
+  - M. Sorokin
+  - D. Nikitin
+  - A. A. Buzdin
+  - R. Komel
+  journal: Cancers
+  year: 2019
+  doi: 10.3390/cancers11081060
+  url: https://doi.org/10.3390/cancers11081060
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Cancer genomics and transcriptomic biomarkers
+- title: Plasma exosomes stimulate breast cancer metastasis through surface interactions and activation of FAK signaling
+  authors:
+  - T. Shtam
+  - S. Naryzhny
+  - R. Samsonov
+  - D. Karasik
+  - I. Mizgirev
+  - A. Kopylov
+  - E. Petrenko
+  - Y. Zabrodskaya
+  - R. Kamyshinsky
+  - D. Nikitin
+  - M. Sorokin
+  - A. Buzdin
+  - H. Gil-Henn
+  - A. Malek
+  journal: Breast Cancer Research and Treatment
+  year: 2019
+  doi: 10.1007/s10549-018-5043-0
+  url: https://doi.org/10.1007/s10549-018-5043-0
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Cancer genomics and transcriptomic biomarkers
+- title: Functional Properties of Circulating Exosomes Mediated by Surface-Attached Plasma Proteins
+  authors:
+  - T. Shtam
+  - S. Naryzhny
+  - A. Kopylov
+  - E. Petrenko
+  - R. Samsonov
+  - R. Kamyshinsky
+  - Y. Zabrodskaya
+  - D. Nikitin
+  - M. Sorokin
+  - A. Buzdin
+  - A. Malek
+  journal: Journal of Hematology
+  year: 2018
+  doi: 10.14740/jh412w
+  url: https://doi.org/10.14740/jh412w
+  type: journal-article
+  preprint: false
+  sole_author: false
+  group: Cancer genomics and transcriptomic biomarkers

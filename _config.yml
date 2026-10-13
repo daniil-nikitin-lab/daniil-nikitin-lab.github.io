@@ -1,0 +1,20 @@
+title: "Daniil Nikitin's lab"
+tagline: "Evolutionary genomics · Group of Bioinformatics, Institute of Molecular Biology NAS RA, Yerevan"
+description: >-
+  Independent research in evolutionary genomics: transposable element–host
+  genome arms race and cancer as an evolutionary process. Yerevan, Armenia.
+author: Daniil Nikitin
+url: "https://daniil-nikitin-lab.github.io"
+baseurl: ""
+lang: en
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+defaults:
+  - scope: { path: "" }
+    values: { layout: page }
+exclude: [scripts/, pictures/, README.md, "*.pptx", "*_plan_*.md", Gemfile, Gemfile.lock]

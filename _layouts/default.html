@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+  {% include header.html %}
+  <main id="content">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+  <script>
+    // Lecture players load the YouTube iframe only on click, so the course page
+    // does not pull eight players on open.
+    document.querySelectorAll('.lecture-player').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var f = document.createElement('iframe');
+        f.src = 'https://www.youtube-nocookie.com/embed/' + btn.dataset.id + '?autoplay=1';
+        f.title = btn.getAttribute('aria-label');
+        f.allow = 'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture';
+        f.allowFullscreen = true;
+        var wrap = document.createElement('div');
+        wrap.className = 'video';
+        wrap.appendChild(f);
+        btn.replaceWith(wrap);
+      });
+    });
+  </script>
+</body>
+</html>

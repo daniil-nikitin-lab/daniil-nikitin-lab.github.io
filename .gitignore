@@ -1,0 +1,13 @@
+# Private sources: never published
+*.pptx
+pictures/
+*_plan_*.md
+scripts/private_exclude.txt
+
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+.DS_Store

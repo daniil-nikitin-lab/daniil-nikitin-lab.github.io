@@ -1,0 +1,26 @@
+{% assign a = site.data.affiliation %}
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <address class="footer-affiliation">
+      <strong><a href="{{ a.group_url }}">{{ a.group }}</a>, <a href="{{ a.website }}">Institute of Molecular Biology NAS RA</a></strong><br>
+      {{ a.address }}<br>
+      Institute phone: {{ a.phone }} · <a href="{{ a.website }}">imb.am</a>
+    </address>
+    <address class="footer-personal">
+      <strong>Daniil Nikitin</strong>, independent researcher in Yerevan, Armenia, since 2022<br>
+      Email: <span class="obf-mail">danya.nikitin.orel [at] gmail.com</span>
+      <ul class="profiles">
+        {% for p in site.data.profiles %}{% unless p.icon == 'mail' %}
+        <li><a href="{{ p.url }}">{{ p.name }}</a></li>
+        {% endunless %}{% endfor %}
+      </ul>
+      <small>Last updated {{ site.time | date: '%B %Y' }}</small>
+    </address>
+  </div>
+  <script>
+    (function (u, d) {
+      var el = document.querySelector('.obf-mail'), m = u + '@' + d;
+      el.innerHTML = '<a href="mailto:' + m + '">' + m + '</a>';
+    })('danya.nikitin.orel', 'gmail.com');
+  </script>
+</footer>

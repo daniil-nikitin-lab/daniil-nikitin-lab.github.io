@@ -1,0 +1,7 @@
+{% assign f = site.data.figures | where: "key", include.key | first %}
+<figure class="fig fig-{{ f.float | default: 'full' }}{% if f.thumb %} fig-thumb{% endif %}">
+  {% if f.link %}<a href="{{ f.file | prepend: '/assets/img/' | relative_url }}">{% endif %}
+  <img src="{{ f.file | prepend: '/assets/img/' | relative_url }}" alt="{{ f.alt }}" width="{{ f.width }}" height="{{ f.height }}" loading="lazy">
+  {% if f.link %}</a>{% endif %}
+  {% if f.caption or f.credit %}<figcaption>{{ f.caption }}{% if f.credit %} <span class="credit">{{ f.credit }}</span>{% endif %}</figcaption>{% endif %}
+</figure>

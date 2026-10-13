@@ -1,0 +1,16 @@
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <p class="site-tagline">{{ site.tagline }}</p>
+    {% capture nav_items %}
+      {% for item in site.data.navigation %}
+        <li><a href="{{ item.url | relative_url }}"{% if page.url contains item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+      {% endfor %}
+    {% endcapture %}
+    <nav class="nav-desktop" aria-label="Main"><ul>{{ nav_items }}</ul></nav>
+    <details class="nav-mobile">
+      <summary>Menu</summary>
+      <nav aria-label="Main"><ul>{{ nav_items }}</ul></nav>
+    </details>
+  </div>
+</header>

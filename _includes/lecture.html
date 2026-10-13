@@ -1,0 +1,14 @@
+<article class="lecture" id="step-{{ include.step }}">
+  <h2>Lecture {{ include.step }} of 8: {{ include.title_en }}</h2>
+  <p class="lecture-meta"><span lang="ru">{{ include.title_ru }}</span> · course lecture {{ include.n }} of 35</p>
+  {% if include.summary %}<p>{{ include.summary }}</p>{% endif %}
+  <button class="lecture-player" type="button" data-id="{{ include.id }}" aria-label="Play: {{ include.title_en }}">
+    <img src="https://i.ytimg.com/vi/{{ include.id }}/hqdefault.jpg" alt="" loading="lazy" width="480" height="360">
+    <span class="play" aria-hidden="true"></span>
+  </button>
+  <noscript><p><a href="https://www.youtube.com/watch?v={{ include.id }}">Watch on YouTube</a></p></noscript>
+  <nav class="lecture-nav" aria-label="Lecture navigation">
+    {% if include.prev %}<a href="#step-{{ include.prev }}">← Previous</a>{% endif %}
+    {% if include.next %}<a href="#step-{{ include.next }}">Next →</a>{% endif %}
+  </nav>
+</article>

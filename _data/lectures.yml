@@ -1,0 +1,191 @@
+- n: 1
+  id: j_Ks-t5PuZE
+  title_ru: Введение. О курсе
+  title_en: 'Introduction: about the course'
+  block: Introduction
+  step: 1
+  summary: Scope and structure of the 35-lecture course.
+- n: 2
+  id: FP1sOt5d6D8
+  title_ru: Введение. История молекулярной биологии
+  title_en: 'Introduction: history of molecular biology'
+  block: Introduction
+- n: 3
+  id: zhOpJlpj8Ns
+  title_ru: Введение. Генетика популяций. Естественный отбор
+  title_en: 'Population genetics: natural selection'
+  block: Introduction
+  step: 2
+  summary: Natural selection, from the introductory block on population genetics.
+- n: 4
+  id: O_vajI40Dxc
+  title_ru: Введение. Генетика популяций. Нейтральная эволюция
+  title_en: 'Population genetics: neutral evolution'
+  block: Introduction
+  step: 3
+  summary: Neutral evolution, the second population-genetics lecture of the introductory block.
+- n: 5
+  id: oVUxuo6QyBQ
+  title_ru: Введение. Физика и биологические макромолекулы
+  title_en: Physics and biological macromolecules
+  block: Introduction
+- n: 6
+  id: Z2PqoGhGGO4
+  title_ru: Биологические макромолекулы. Структура ДНК
+  title_en: DNA structure
+  block: Biological macromolecules
+- n: 7
+  id: _X3WS_auMDw
+  title_ru: Биологические макромолекулы. Топология ДНК
+  title_en: DNA topology
+  block: Biological macromolecules
+- n: 8
+  id: Bujspn01EBU
+  title_ru: Биологические макромолекулы. Структура и динамика РНК
+  title_en: RNA structure and dynamics
+  block: Biological macromolecules
+- n: 9
+  id: z0j_NrC0NFg
+  title_ru: Биологические макромолекулы. Аминокислоты и вторичная структура белков
+  title_en: Amino acids and protein secondary structure
+  block: Biological macromolecules
+- n: 10
+  id: H2kp_HnguSg
+  title_ru: Биологические макромолекулы. Трехмерная организация и функции белков
+  title_en: Three-dimensional organization and functions of proteins
+  block: Biological macromolecules
+- n: 11
+  id: 17AqDRfj7vs
+  title_ru: Биологические макромолекулы. Эволюция и самоорганизация белков
+  title_en: Evolution and self-organization of proteins
+  block: Biological macromolecules
+  step: 4
+  summary: Protein evolution and self-organization, closing the block on biological macromolecules.
+- n: 12
+  id: HCwiCiEWaN4
+  title_ru: Поддержание и копирование генома. Хроматин. Упаковка ДНК
+  title_en: 'Chromatin: DNA packaging'
+  block: Genome maintenance and copying
+- n: 13
+  id: XfRRJqQIg20
+  title_ru: Поддержание и копирование генома. Хроматин. Регуляция работы генов
+  title_en: 'Chromatin: regulation of gene activity'
+  block: Genome maintenance and copying
+- n: 14
+  id: HghIRtuVYeI
+  title_ru: Поддержание и копирование генома. Дифференцировка клеток и хроматин
+  title_en: Cell differentiation and chromatin
+  block: Genome maintenance and copying
+- n: 15
+  id: LoWqmcTCNXA
+  title_ru: Поддержание и копирование генома. Репликация ДНК
+  title_en: DNA replication
+  block: Genome maintenance and copying
+- n: 16
+  id: dajhtri-F-Q
+  title_ru: Поддержание и копирование генома. Инициация репликации и удвоение концов
+  title_en: Replication initiation and end replication
+  block: Genome maintenance and copying
+- n: 17
+  id: BJtyO04tIRg
+  title_ru: Поддержание и копирование генома. Мутации и репарация ДНК
+  title_en: Mutations and DNA repair
+  block: Genome maintenance and copying
+  step: 5
+  summary: Mutations and DNA repair, closing the block on genome maintenance and copying.
+- n: 18
+  id: _PNlIK4zH-w
+  title_ru: Перестройки генома. Гомологичная рекомбинация ДНК
+  title_en: Homologous DNA recombination
+  block: Genome rearrangements
+- n: 19
+  id: pfiTX3TMBnM
+  title_ru: Перестройки генома. Сайт-специфическая рекомбинация
+  title_en: Site-specific recombination
+  block: Genome rearrangements
+- n: 20
+  id: F5U7ytVj5lQ
+  title_ru: Перестройки генома. Транспозоны и пластичность генома
+  title_en: Transposons and genome plasticity
+  block: Genome rearrangements
+  step: 6
+  summary: Transposons and genome plasticity, from the block on genome rearrangements.
+- n: 21
+  id: 5uq3AoB7Z2Y
+  title_ru: Перестройки генома. Транспозоны и гонка вооружений
+  title_en: Transposons and the arms race
+  block: Genome rearrangements
+  step: 7
+  summary: Transposons and the arms race with the host genome, the topic of my current research.
+- n: 22
+  id: VX8YQxIGwv0
+  title_ru: Реализация геномной информации. Транскрипция ДНК. Общие принципы
+  title_en: 'DNA transcription: general principles'
+  block: Expression of genomic information
+- n: 23
+  id: gAm3MVnEZj0
+  title_ru: Реализация геномной информации. Процессинг и сплайсинг РНК
+  title_en: RNA processing and splicing
+  block: Expression of genomic information
+- n: 24
+  id: IYNfuZvqcGw
+  title_ru: Реализация геномной информации. Различные процессы, сопровождающие транскрипцию. Часть 1
+  title_en: Processes accompanying transcription, part 1
+  block: Expression of genomic information
+- n: 25
+  id: dwRXxLhZNRY
+  title_ru: Реализация геномной информации. Различные процессы, сопровождающие транскрипцию. Часть 2
+  title_en: Processes accompanying transcription, part 2
+  block: Expression of genomic information
+- n: 26
+  id: HP3oVWXA_H8
+  title_ru: Реализация геномной информации. Трансляция. Введение в синтез белка
+  title_en: 'Translation: introduction to protein synthesis'
+  block: Expression of genomic information
+- n: 27
+  id: 2utsULtmeFM
+  title_ru: Реализация геномной информации. Трансляция. Цикл синтеза белка
+  title_en: 'Translation: the protein synthesis cycle'
+  block: Expression of genomic information
+- n: 28
+  id: 67EDC-a-xYc
+  title_ru: Реализация геномной информации. Трансляция. Регуляция и контроль качества. Часть 1
+  title_en: 'Translation: regulation and quality control, part 1'
+  block: Expression of genomic information
+- n: 29
+  id: FY4icMaJCTA
+  title_ru: Реализация геномной информации. Трансляция. Регуляция и контроль качества. Часть 2
+  title_en: 'Translation: regulation and quality control, part 2'
+  block: Expression of genomic information
+- n: 30
+  id: NZeYlu8hEMw
+  title_ru: Регуляция работы генов. Регуляция транскрипции у прокариот. Часть 1
+  title_en: Transcription regulation in prokaryotes, part 1
+  block: Regulation of gene expression
+- n: 31
+  id: CWT8FrW2z28
+  title_ru: Регуляция работы генов. Регуляция транскрипции у прокариот. Часть 2
+  title_en: Transcription regulation in prokaryotes, part 2
+  block: Regulation of gene expression
+- n: 32
+  id: KfyRwvbJgfM
+  title_ru: Регуляция работы генов. Регуляция транскрипции у эукариот. Часть 1
+  title_en: Transcription regulation in eukaryotes, part 1
+  block: Regulation of gene expression
+- n: 33
+  id: OgQopggGl-4
+  title_ru: Регуляция работы генов. Регуляция транскрипции у эукариот. Часть 2
+  title_en: Transcription regulation in eukaryotes, part 2
+  block: Regulation of gene expression
+- n: 34
+  id: HnjM4mlpLgw
+  title_ru: Регуляция работы генов. Регуляторные РНК
+  title_en: Regulatory RNAs
+  block: Regulation of gene expression
+- n: 35
+  id: _29-ptkSVXo
+  title_ru: Заключение. Эпилог
+  title_en: Epilogue
+  block: Conclusion
+  step: 8
+  summary: The closing lecture of the course.

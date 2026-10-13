@@ -1,0 +1,137 @@
+- key: portrait
+  file: portrait.jpg
+  page: index
+  float: portrait
+  alt: Portrait of Daniil Nikitin
+  width: 600
+  height: 596
+- key: independent-work
+  file: independent-work.jpg
+  page: index
+  float: full
+  alt: Daniil Nikitin working on a laptop outdoors, forested mountains behind
+  caption: Writing code in Dilijan, Armenia, 2026.
+  width: 1224
+  height: 856
+- key: te-ga
+  file: papers/te-epigenetic-impact-ga.jpg
+  page: research
+  float: right
+  alt: 'Graphical abstract: epigenetic impact of transposable element insertions and the molecular processes associated with SINE, LINE and LTR elements'
+  caption: Transposable element classes and the molecular processes enriched near their insertions.
+  credit: 'Graphical abstract. Nikitin D., G3: Genes, Genomes, Genetics 2026, doi:10.1093/g3journal/jkag250, CC BY 4.0'
+  width: 1280
+  height: 1075
+- key: te-chord
+  file: papers/te-tss-chord.jpg
+  page: research
+  float: left
+  alt: Chord diagram of human transposable element classes and families split into TSS-proximal and distal copies
+  caption: 3.7 million human TEs by class and family, split into copies within 10 kb of a transcription start site and distal copies.
+  credit: 'Nikitin D., G3: Genes, Genomes, Genetics 2026, doi:10.1093/g3journal/jkag250, CC BY 4.0'
+  width: 1249
+  height: 1400
+- key: te-arms-race
+  file: papers/te-arms-race-epigenomics.jpg
+  page: research
+  float: full
+  alt: 'Multi-panel figure: epigenetic correlation versus subfamily size and Kimura divergence, subfamily scatter plots and a clustered heatmap across cell lines and epigenomic tracks'
+  caption: Correlation of epigenomic signal with TE age (Kimura divergence) across subfamilies, twelve cell lines and seven epigenomic tracks.
+  credit: Nikitin D.M., Royal Society Open Science 2026, doi:10.1098/rsos.260639, CC BY 4.0
+  width: 948
+  height: 1400
+- key: te-ga-pubs
+  file: papers/te-epigenetic-impact-ga.jpg
+  page: publications
+  float: right
+  alt: Graphical abstract of the 2026 G3 study on transposable elements
+  caption: Graphical abstract of the 2026 single-author study in G3.
+  credit: 'Nikitin D., G3: Genes, Genomes, Genetics 2026, doi:10.1093/g3journal/jkag250, CC BY 4.0'
+  width: 1280
+  height: 1075
+- key: ibo
+  file: awards/ibo-2013-bern.jpg
+  page: awards
+  float: small
+  alt: The Russian team on stage at the opening ceremony of the International Biology Olympiad 2013 in Bern
+  caption: Russian team at the opening ceremony of the 24th IBO, Bern, 2013.
+  width: 512
+  height: 340
+- key: iso-cert
+  file: awards/iso-lead-auditor-2026.jpg
+  page: awards
+  float: full
+  thumb: true
+  link: true
+  alt: 'Certificate of attainment: ISO 9001:2015 / ISO 13485:2016 Certified Lead Auditor Training'
+  caption: ISO 9001:2015 / ISO 13485:2016 Lead Auditor training, DEKRA, 2026.
+  width: 612
+  height: 792
+- key: gclp-cert
+  file: awards/gclp-2025.jpg
+  page: awards
+  float: full
+  thumb: true
+  link: true
+  alt: 'Certificate of completion: GCLP e-learning course, The Global Health Network'
+  caption: GCLP certificate, The Global Health Network, 2 July 2025.
+  width: 769
+  height: 1280
+- key: combobatch-collab
+  file: papers/combobatch-ga.jpg
+  page: collaborations
+  float: full
+  alt: 'ComboBatch graphical abstract: germinal-center lymphoma dataset of 7,174 samples, the seven-step harmonization pipeline, and tSNE plots before and after harmonization'
+  caption: ComboBatch, the first output of the follicular lymphoma project, Group of Bioinformatics, IMB NAS RA.
+  credit: Nikitin D. et al., bioRxiv 2026 (preprint), doi:10.64898/2026.09.15.751825
+  width: 1400
+  height: 552
+- key: combobatch-project
+  file: papers/combobatch-ga.jpg
+  page: projects
+  float: full
+  alt: 'ComboBatch graphical abstract: input platforms, harmonization pipeline steps and tSNE plots before and after harmonization'
+  caption: 'ComboBatch pipeline: 7,174 germinal-center lymphoma samples from RNA-seq and microarrays, fresh-frozen and FFPE material.'
+  credit: Nikitin D. et al., bioRxiv 2026 (preprint), doi:10.64898/2026.09.15.751825
+  width: 1400
+  height: 552
+- key: camp
+  file: projects/remote-work-camp.jpg
+  page: projects
+  float: right
+  alt: Daniil Nikitin working on a laptop in a camp chair next to a tent by a river
+  caption: Working from a camp, Armenia, 2025.
+  width: 960
+  height: 1280
+- key: reenactment-1
+  file: hobbies/reenactment-1.jpg
+  page: hobbies
+  float: left
+  alt: Daniil Nikitin in a red padded gambeson with plate armour pieces, raising a sword, next to his son in a heraldic tabard
+  caption: With my son Ivan at a reenactment event, Armenia.
+  width: 1055
+  height: 1280
+- key: reenactment-2
+  file: hobbies/reenactment-2.jpg
+  page: hobbies
+  float: full
+  alt: Daniil Nikitin in late-medieval armour holding a polearm at a reenactment camp
+  caption: Reenactment camp, Armenia.
+  width: 1600
+  height: 1156
+- key: skiing
+  file: hobbies/skiing.jpg
+  page: hobbies
+  float: right
+  alt: Four people standing on a snowy ski slope
+  caption: Skiing in Tsaghkadzor, 2025.
+  width: 800
+  height: 600
+- key: family
+  file: hobbies/family.jpg
+  page: hobbies
+  float: right
+  alt: Daniil Nikitin with his wife and younger son sitting in a meadow
+  caption: With my wife Irina and my younger son Alexander.
+  width: 1280
+  height: 853
