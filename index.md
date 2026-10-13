@@ -18,9 +18,9 @@ I am an independent researcher in Yerevan, Armenia, where I moved from Russia in
 
 ## Recent work
 
-In 2026 I published two single-author studies on TE–host genome evolution. In [*G3: Genes, Genomes, Genetics*](https://doi.org/10.1093/g3journal/jkag250), I mapped 3,709,429 TEs to 28,738 human genes on the T2T-CHM13 assembly and found a 220 kb interferon-alpha domain in which 77 of 175 TEs are young L1 copies. In [*Royal Society Open Science*](https://doi.org/10.1098/rsos.260639), I analysed seven epigenomic modalities in twelve cell lines and showed that SVA elements carry the strongest signatures of escape from H3K9me3-mediated heterochromatinization.
+In 2026 I published two single-author studies on TE–host genome evolution. In [*G3: Genes, Genomes, Genetics*](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkag250/8832506), I mapped 3,709,429 TEs to 28,738 human genes on the T2T-CHM13 assembly and found a 220 kb interferon-alpha domain in which 77 of 175 TEs are young L1 copies. In [*Royal Society Open Science*](https://royalsocietypublishing.org/rsos/article/13/8/rsos260639/483051/Transposable-element-host-genome-evolutionary-arms), I analysed seven epigenomic modalities in twelve cell lines and showed that SVA elements carry the strongest signatures of escape from H3K9me3-mediated heterochromatinization.
 
-The follicular lymphoma project produced its first preprint in September 2026: [ComboBatch](https://doi.org/10.64898/2026.09.15.751825), a benchmark of 2,234 transcriptomic harmonization approaches on 7,174 samples from 88 germinal-center B-cell lymphoma cohorts.
+The follicular lymphoma project produced its first preprint in September 2026: [ComboBatch](https://www.biorxiv.org/content/10.64898/2026.09.15.751825v1.full), a benchmark of 2,234 transcriptomic harmonization approaches on 7,174 samples from 88 germinal-center B-cell lymphoma cohorts.
 
 ## Working as an independent researcher
 
